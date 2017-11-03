@@ -20,3 +20,7 @@ This project will make use of the following technologies (This may grow as requi
 -Json Web Tokens
 -ExpressJs
 
+Participants
+------------
+Gary - gary.bullock@therealbuzzgroup.com
+
